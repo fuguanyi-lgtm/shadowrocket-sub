@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-05-09T12:07:41+08:00",
+  "snapshot_path": "/Users/guanyi/Library/Application Support/VPN Auto Connector Native/runtime/last_nodes_snapshot.json",
+  "runtime_config_path": "/Users/guanyi/Library/Application Support/VPN Auto Connector Native/runtime/instances/instance-f1d5f2d7cfd1/last_runtime_config.yaml",
+  "count": 5,
+  "nodes": [
+    {
+      "name": "🇱🇹 立陶宛 8",
+      "type": "vless",
+      "state": "Accessible",
+      "latency_ms": 1159.042,
+      "speed_down_mbps": 3.45,
+      "speed_status": "skipped",
+      "source_names": [
+        "free18"
+      ]
+    },
+    {
+      "name": "🇺🇸US_5|1.0MB/s",
+      "type": "ss",
+      "state": "Accessible",
+      "latency_ms": 1207.47,
+      "speed_down_mbps": 2.71,
+      "speed_status": "success",
+      "source_names": [
+        "周润发"
+      ]
+    },
+    {
+      "name": "🇸🇪 瑞典 139",
+      "type": "vless",
+      "state": "Accessible",
+      "latency_ms": 1802.6899999999998,
+      "speed_down_mbps": 2.45,
+      "speed_status": "success",
+      "source_names": [
+        "free18"
+      ]
+    },
+    {
+      "name": "🇩🇪DE_6|1.1MB/s",
+      "type": "trojan",
+      "state": "Accessible",
+      "latency_ms": 1694.345,
+      "speed_down_mbps": 1.73,
+      "speed_status": "success",
+      "source_names": [
+        "周润发"
+      ]
+    },
+    {
+      "name": "🇬🇧GB_1|1000KB/s",
+      "type": "trojan",
+      "state": "Accessible",
+      "latency_ms": 1636.9940000000001,
+      "speed_down_mbps": 1.54,
+      "speed_status": "pending",
+      "source_names": [
+        "周润发"
+      ]
+    }
+  ]
+}
